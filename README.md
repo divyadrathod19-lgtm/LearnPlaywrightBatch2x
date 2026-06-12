@@ -14,9 +14,10 @@ This repository contains structured learning materials organized into chapters c
 
 ```
 LearnPlaywrightBatch2x/
-├── Chapter_01_Basics/          - Introduction to JavaScript and setup verification
-├── Chapter_02_java_Basic 2/    - Java fundamentals
-└── Chapter_04_Javascript_concepts/ - Advanced JavaScript topics (variables, functions, scope, hoisting)
+├── Chapter_01_Basics/                  - Introduction to JavaScript and setup verification
+├── Chapter_02_java_Basic 2/             - Java fundamentals
+├── Chapter_04_Javascript_concepts/      - Advanced JavaScript topics (variables, functions, scope, hoisting)
+└── Chapter_10_Loops/                    - Loop constructs and iteration exercises
 ```
 
 ## Chapters
@@ -52,6 +53,32 @@ Deep dive into JavaScript core concepts including variables, functions, scope, a
 - `15_let_scope.js` - Block scope with let
 - `16_hosting.js` - Hoisting concepts
 - `17_hostingWithFunction.js` - Hoisting with functions
+- `18_let_hosting.js` - Let and hoisting interactions
+- `19_let_hosting_block.js` - Block hoisting with let
+- `20_let_const.js` - Let and const usage comparisons
+
+## Chapter 10: Loops
+Loop constructs and iteration exercises for JavaScript.
+
+**Key Topics:**
+- `for`, `for...of`, `for...in`
+- `while` and `do...while`
+- Loop control and iteration patterns
+- Practical exercise scripts
+
+**Files:**
+- `71_For_loop.js`
+- `72_For_loop.js`
+- `73_For_Loops.js`
+- `74_IQ.js`
+- `75_For_OF_IN_ENCH.js`
+- `76_While_loop.js`
+- `77_do_while_loop.js`
+- `78_Do_while.js`
+- `79_IQ.js`
+- `80_IQ.js`
+- `81_IQ.js`
+- `82_IQ.js`
 
 ## Getting Started
 
