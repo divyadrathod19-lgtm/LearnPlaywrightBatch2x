@@ -31,7 +31,7 @@ Introduction to JavaScript with setup verification scripts.
 - `03_JS_verify_setup.js` - Setup verification script
 
 ### Chapter 2: Java Basics
-Fundamentals of Java programming.
+Placeholder for Java fundamentals. This chapter is intended to contain Java learning material and example code once files are added.
 
 ### Chapter 4: JavaScript Concepts
 Deep dive into JavaScript core concepts including variables, functions, scope, and hoisting.
