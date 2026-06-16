@@ -18,6 +18,7 @@ LearnPlaywrightBatch2x/
 ├── Chapter_02_java_Basic 2/             - Java fundamentals
 ├── Chapter_04_Javascript_concepts/      - Advanced JavaScript topics (variables, functions, scope, hoisting)
 └── Chapter_10_Loops/                    - Loop constructs and iteration exercises
+├── Chapter_11_Arrays/                   - Array methods and iteration examples
 ```
 
 ## Chapters
@@ -79,6 +80,24 @@ Loop constructs and iteration exercises for JavaScript.
 - `80_IQ.js`
 - `81_IQ.js`
 - `82_IQ.js`
+
+## Chapter 11: Arrays
+Array iteration and transformation methods.
+
+**Key Topics:**
+- `forEach`, `entries`, `map`, `filter`, `reduce`
+- Iterating arrays with `for...of`
+- Index/value pair access
+
+**Files:**
+- `83_Arrays.js`
+- `84_Arrays.js`
+- `85_access_array.js`
+- `86_Arrays_Adding_Remove.js`
+- `87_adding_remove.js`
+- `88_REAL_Example.js`
+- `89_searching.js`
+- `90_Iterate.js`
 
 ## Getting Started
 
