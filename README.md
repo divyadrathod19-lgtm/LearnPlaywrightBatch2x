@@ -14,11 +14,18 @@ This repository contains structured learning materials organized into chapters c
 
 ```
 LearnPlaywrightBatch2x/
-├── Chapter_01_Basics/                  - Introduction to JavaScript and setup verification
-├── Chapter_02_java_Basic 2/             - Java fundamentals
-├── Chapter_04_Javascript_concepts/      - Advanced JavaScript topics (variables, functions, scope, hoisting)
-└── Chapter_10_Loops/                    - Loop constructs and iteration exercises
-├── Chapter_11_Arrays/                   - Array methods and iteration examples
+├── Chapter_01_Basics/                    - Introduction to JavaScript and setup verification
+├── Chapter_02_java_Basic/                - Java fundamentals
+├── Chapter_02_java_Basic 2/              - Additional Java learning material
+├── Chapter_04_Javascript_concepts/       - Advanced JavaScript topics (variables, functions, scope, hoisting)
+├── Chapter_05_lLtral/                    - JavaScript literal examples
+├── Chapter_06_Operator/                  - Operator and expression exercises
+├── Chapter_07_if_else/                   - Conditional statements and branching
+├── Chapter_08_switch_statement/          - Switch/case examples
+├── Chapter_09_UserInput/                 - User input and prompt handling
+├── Chapter_10_Loops/                     - Loop constructs and iteration exercises
+├── Chapter_11_Arrays/                    - Array methods and iteration examples
+└── Chapter_12_Functions/                 - Function types, parameters, return values
 ```
 
 ## Chapters
@@ -98,6 +105,25 @@ Array iteration and transformation methods.
 - `88_REAL_Example.js`
 - `89_searching.js`
 - `90_Iterate.js`
+
+## Chapter 12: Functions
+Function definitions, parameter handling, and return values.
+
+**Key Topics:**
+- Function declaration and expressions
+- Function parameters and arguments
+- Return values
+- Arrow functions and template literals
+
+**Files:**
+- `96_functionas.js`
+- `97_type 1_fn_basic.js`
+- `98_type_2_FN_with_param_no retrun.js`
+- `99_Type_3_fn_without_`
+- `100_Type_4_with para_with retrun.js`
+- `101_template_literal.js`
+- `102_Fn_Expression.js`
+- `103_arrow_fun.js`
 
 ## Getting Started
 
