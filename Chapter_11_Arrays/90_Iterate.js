@@ -1,32 +1,33 @@
 //iterate - go from one to another
 
-let tests = ["login", "checkout", "search"];
-for (let i = 0; i < tests.length; i++) {
+let tests =["login","checkout","search"]
+ for (i=0; i < tests.length;i++){
     console.log(tests[i]);
-}
+ }
 
-console.log("---");
+ console.log("---");
 
-// for..of (cleanest for values)
-for (const test of tests) {
-    console.log(test);
-}
+ //for..of(clesnest for values)
+ for (test of tests);
+     console.log (tests);
 
-console.log("---");
+ console.log("---");
 
-tests.forEach((test, index) => {
-    console.log(test, index);
-});
+ tests.forEach((test,index) => {
+    console.log(test,index);
+ })
 
-console.log("---");
-let students = ["meena", "Reena", "Ajay", "Divu", "pREETA"];
-for (let student in students) {
-    console.log(student, "->", students[student]); // index = in
-}
+ 
+ console.log("---");
+ let students =["meena","Reena","Ajay","Divu","pREETA"];
+ for (let student in students){
+    console.log(student, "->", students[student]);//index =in 
+ }
+  
 
-// use entries() to get [index, value]
-console.log("---");
-for (let [i, test] of tests.entries()) {
-    console.log(i, test);
-}
+ // we willnot use 
+ console.log("---");
+ for (let [i,test]of tests.enties()){
+      console.log(i,test);
+ }
 

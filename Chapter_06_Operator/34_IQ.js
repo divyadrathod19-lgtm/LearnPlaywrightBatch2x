@@ -10,5 +10,8 @@ console.log(x); //17
 x*=2;
 console.log(x); //34    
 
-x/=4;
-console.log(x); //17
+x/=17;
+console.log(x); //2
+
+x%=2;
+console.log(x); //0

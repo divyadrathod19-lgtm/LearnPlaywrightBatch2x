@@ -1,5 +1,7 @@
+console.log (1);
+console.log(2);
+console.log(10);
 
- let i==0;
- For (let i= 0;i<10;i++){
-    console.log (i)
- }
+
+//for loop 
+//help you to repeat  a block of code 

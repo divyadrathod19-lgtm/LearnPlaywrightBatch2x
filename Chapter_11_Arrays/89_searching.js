@@ -12,8 +12,9 @@ results.includes("skipp");//False
 
 //find - retrun first matcing element
  let num = [10,25,30,45];
- let r = num.find(x=> x> 20);// 25,30,45
+ let r = num.find(x=> x> 20);// 25
 console.log(r);
+
  //find Index
  num.findIndex (n => n>20);//1,2,3
 
