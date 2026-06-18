@@ -22,3 +22,29 @@ console.log(doubleIt(10));
 
 const printIt =name =>console.log(name);
 printIt("Dutta");
+
+// if parametter is missing still we can use the arrow function 
+
+//r ex.
+function say(){
+console.log("Hi");
+}
+
+//in arrow fun 
+ const say1 =() => console.log("Hi");
+ say1();
+
+ const say2 =() =>'Hi';
+say2();
+
+
+ const greet =(name)=>{
+    const msg ="Hi"+name;
+    return msg;
+ } 
+
+ const greet = (name) => {
+    const msg = "Hi " + name;
+    return msg;
+}
+
