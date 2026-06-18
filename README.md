@@ -166,3 +166,7 @@ MIT
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
+ 
+## Updates
+
+- 2026-06-18: Added example Chapter_12_Functions/116_higher_order_fn.js demonstrating a higher-order function and simple logging.
