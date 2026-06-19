@@ -125,6 +125,27 @@ Function definitions, parameter handling, and return values.
 - `102_Fn_Expression.js`
 - `103_arrow_fun.js`
 
+## Chapter 13: Strings
+String manipulation, template literals, and text-processing examples.
+
+**Key Topics:**
+- String concatenation
+- Template literals
+- String methods
+
+## Chapter 14: Objects
+Object fundamentals and the difference between primitive values and reference values.
+
+**Key Topics:**
+- Object creation and property access
+- Primitive vs reference copy behavior
+- Mutability of objects and arrays
+- `let` / `const` with objects
+
+**Files:**
+- `128_primitive_ref.js`
+- `137_let_const_obj.js`
+
 ## Getting Started
 
 1. Clone the repository:
