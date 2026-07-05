@@ -9,7 +9,7 @@ This repository contains structured learning materials organized into chapters c
 - JavaScript core concepts (variables, functions, scope, hosting)
 - Java basics
 - Arrays, strings, objects, loops, and control flow
-- Asynchronous JavaScript with callbacks and promises
+- Asynchronous JavaScript with callbacks, promises, and async/await
 - Advanced testing with Playwright
 
 ## Repository Structure
@@ -32,7 +32,8 @@ LearnPlaywrightBatch2x/
 ├── Chapter_14_object/                    - Objects and reference behavior
 ├── Chapter_15_2D_Array/                  - 2D array examples
 ├── Chapter_16_callback/                  - Callback function concepts
-└── Chapter_17_Promise/                   - Promise basics and async patterns
+├── Chapter_17_Promise/                   - Promise basics and async patterns
+└── Chapter_18_Async_Await/               - Async/await syntax and flow control
 ```
 
 ## Chapters
@@ -159,6 +160,9 @@ Explains callback functions and how they are used for asynchronous behavior.
 ## Chapter 17: Promises
 Covers the basics of JavaScript promises, asynchronous flow, and promise-based exercises.
 
+## Chapter 18: Async/Await
+Introduces async/await for writing cleaner asynchronous code, handling promises more clearly, and practicing real-world async logic.
+
 ## Getting Started
 
 1. Clone the repository:
@@ -207,3 +211,4 @@ Feel free to submit issues and enhancement requests.
 - 2026-06-18: Updated root README to note the latest Chapter 12 content and ensure the repository documentation is current.
 - 2026-07-04: Updated README with minor documentation improvements and verified repository structure.
 - 2026-07-05: Refreshed the main README to include callback and promise chapters and improve the repository overview.
+- 2026-07-05: Added async/await chapter documentation to reflect the latest repository content.
