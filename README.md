@@ -8,6 +8,8 @@ This repository contains structured learning materials organized into chapters c
 - JavaScript basics and setup verification
 - JavaScript core concepts (variables, functions, scope, hosting)
 - Java basics
+- Arrays, strings, objects, loops, and control flow
+- Asynchronous JavaScript with callbacks and promises
 - Advanced testing with Playwright
 
 ## Repository Structure
@@ -25,7 +27,12 @@ LearnPlaywrightBatch2x/
 ├── Chapter_09_UserInput/                 - User input and prompt handling
 ├── Chapter_10_Loops/                     - Loop constructs and iteration exercises
 ├── Chapter_11_Arrays/                    - Array methods and iteration examples
-└── Chapter_12_Functions/                 - Function types, parameters, return values
+├── Chapter_12_Functions/                 - Function types, parameters, return values
+├── Chapter_13_Strings/                   - String methods and template literals
+├── Chapter_14_object/                    - Objects and reference behavior
+├── Chapter_15_2D_Array/                  - 2D array examples
+├── Chapter_16_callback/                  - Callback function concepts
+└── Chapter_17_Promise/                   - Promise basics and async patterns
 ```
 
 ## Chapters
@@ -146,6 +153,12 @@ Object fundamentals and the difference between primitive values and reference va
 - `128_primitive_ref.js`
 - `137_let_const_obj.js`
 
+## Chapter 16: Callbacks
+Explains callback functions and how they are used for asynchronous behavior.
+
+## Chapter 17: Promises
+Covers the basics of JavaScript promises, asynchronous flow, and promise-based exercises.
+
 ## Getting Started
 
 1. Clone the repository:
@@ -193,3 +206,4 @@ Feel free to submit issues and enhancement requests.
 - 2026-06-18: Added multiple Chapter_12_Functions examples, including higher-order functions, closures, default parameters, spread/rest usage, IIFEs, and more.
 - 2026-06-18: Updated root README to note the latest Chapter 12 content and ensure the repository documentation is current.
 - 2026-07-04: Updated README with minor documentation improvements and verified repository structure.
+- 2026-07-05: Refreshed the main README to include callback and promise chapters and improve the repository overview.
