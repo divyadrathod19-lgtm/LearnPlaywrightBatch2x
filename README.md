@@ -33,7 +33,8 @@ LearnPlaywrightBatch2x/
 ├── Chapter_15_2D_Array/                  - 2D array examples
 ├── Chapter_16_callback/                  - Callback function concepts
 ├── Chapter_17_Promise/                   - Promise basics and async patterns
-└── Chapter_18_Async_Await/               - Async/await syntax and flow control
+├── Chapter_18_Async_Await/              - Async/await syntax and flow control
+└── Chapter_19_playwright_Basics/        - Playwright basics, test setup, and browser automation examples
 ```
 
 ## Chapters
@@ -163,6 +164,9 @@ Covers the basics of JavaScript promises, asynchronous flow, and promise-based e
 ## Chapter 18: Async/Await
 Introduces async/await for writing cleaner asynchronous code, handling promises more clearly, and practicing real-world async logic.
 
+## Chapter 19: Playwright Basics
+Covers Playwright installation, project setup, and basic browser automation with test scripts for web interactions and assertions.
+
 ## Getting Started
 
 1. Clone the repository:
@@ -212,3 +216,4 @@ Feel free to submit issues and enhancement requests.
 - 2026-07-04: Updated README with minor documentation improvements and verified repository structure.
 - 2026-07-05: Refreshed the main README to include callback and promise chapters and improve the repository overview.
 - 2026-07-05: Added async/await chapter documentation to reflect the latest repository content.
+- 2026-07-26: Documented the new Playwright basics chapter and updated the repository overview to include the latest automation testing content.
