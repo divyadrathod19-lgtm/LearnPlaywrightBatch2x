@@ -9,3 +9,5 @@ function setupConfig(){
 setupConfig();
 console.log(env);
 console.log(timeout);
+//time out is local variable which is assiged in class out of block it will not allow hence it's send eoror 
+

@@ -21,3 +21,6 @@ placeorder("Burger", function(){
 placeorder("momos", ()=>{
     console.log("Arrow fn,I am also function without name!")
 });
+
+
+//basically call back is do your task first and than call me in last once you are done 

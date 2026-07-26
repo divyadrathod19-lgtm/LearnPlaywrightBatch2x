@@ -13,3 +13,4 @@ fn_inner();
 
 //inner function is directly not allowd 
 //hence we will call outer in new function and we will calling new function 
+

@@ -4,6 +4,3 @@ const obj2 ={c:3,d:4};
 const copy ={...obj1};
 console.log(copy);
 
-
-const copy ={obj1};
-console.log(copy);

@@ -42,7 +42,9 @@ function clickLogin(callback){
     },1000);
 }
 
-// why people not like this 
+// why people not like this bcz if we have multiple case than we have to 
+// do this for that many times hence it'snot correct way 
+
 openBrowser(function (){
     gotoLoginPage(function (){
         enterCredencial(function (){
@@ -52,3 +54,4 @@ openBrowser(function (){
         })
     })
 })
+//hence playwrite say only use one callback 

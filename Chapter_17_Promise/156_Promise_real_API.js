@@ -7,3 +7,6 @@ apiCall.then(function(data){
 }).catch(function (error){
     console.log(error);
 })
+
+//.catch() runs only when promise is rejected 
+// .then() is completely skipped.

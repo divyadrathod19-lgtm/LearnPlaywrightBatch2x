@@ -10,3 +10,8 @@ finally {
 }
 }
 testApi();
+
+
+//rules 
+//1. when any function return the promise we will always use await 
+//2. if any code have some kind of promises we will use Async 

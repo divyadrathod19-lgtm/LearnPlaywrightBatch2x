@@ -12,3 +12,7 @@ function outer(){
         console.log (y);
         }
 }
+//function withing function is not allowd it is supported but we will not use it never ever 
+
+
+

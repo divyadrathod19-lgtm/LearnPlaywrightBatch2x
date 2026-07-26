@@ -23,7 +23,7 @@ function greet (name){
     return `hello, ${name}`;
 }
 
-//expression function it will not allow to 
+//expression function it will not allow it will give reference error 
 sayHi ("bob");
  const sayHi =function (name){
     return`Hi, ${name}`;
